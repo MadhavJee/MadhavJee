@@ -20,7 +20,7 @@
 ---
 
 ## About Me
-<img align="right" width="280" src="https://github.com/MadhavJee/MadhavJee/blob/main/my%20new%20pic.jpeg" alt="Madhav Jee" style="border-radius: 20px;" />
+<img align="right" width="280" src="https://github.com/MadhavJee/MadhavJee/blob/main/my%20new%20pic-modified.png" alt="Madhav Jee" />
 
 
 - CSE student at **Lovely Professional University** with **8.29 CGPA**.
