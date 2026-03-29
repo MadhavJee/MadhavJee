@@ -20,7 +20,8 @@
 ---
 
 ## About Me
-<img align="right" width="330" src="https://github.com/MadhavJee/MadhavJee/blob/main/my%20new%20pic.jpeg" alt="coding gif" style="border-radius: 18px;" />
+<img align="right" width="280" src="https://github.com/MadhavJee/MadhavJee/blob/main/my%20new%20pic.jpeg" alt="Madhav Jee" style="border-radius: 20px;" />
+
 
 - CSE student at **Lovely Professional University** with **8.29 CGPA**.
 - I like shipping practical solutions: web apps, dashboards, and ML models.
