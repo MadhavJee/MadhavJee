@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0ea5e9,30:0284c7,60:0369a1,100:1d4ed8&text=Madhav%20Jee&fontSize=52&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Data%20Analyst%20%7C%20CSE%20Student&descAlignY=58" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0ea5e9,25:0284c7,55:0369a1,100:1e40af&text=Madhav%20Jee&fontSize=54&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Data%20Analyst%20%7C%20CSE%20Student&descAlignY=58" alt="header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=950&lines=I+build+products+from+data%2C+code%2C+and+curiosity;Full-Stack+MERN+Developer;Data+Analytics+%7C+Machine+Learning+Builder;Open+to+Internships+%26+Meaningful+Collaborations" alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&repeat=true&width=980&lines=I+turn+ideas+into+real+products;MERN+Developer+%7C+Analytics+Builder+%7C+ML+Explorer;Open+to+Internships+and+High-Impact+Collaborations" alt="typing animation" />
 </p>
 
 <p align="center">
@@ -23,12 +23,12 @@
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
 ### Hey, I'm Madhav
 - CSE student at **Lovely Professional University** with **8.29 CGPA**
 - Building **MERN apps**, **analytics dashboards**, and **ML projects**
-- Currently learning **Advanced DSA**, **Big Data**, and **backend architecture**.
+- Currently learning **Advanced DSA**, **Big Data**, and **backend architecture**
 - Open to **internships** and meaningful collaborations
 
 <p>
@@ -44,13 +44,17 @@
 
 </td>
 
-<td width="38%" align="center" valign="top">
-<img width="310" src="https://raw.githubusercontent.com/MadhavJee/MadhavJee/main/my%20new%20pic-modified.png" alt="Madhav Jee"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=16&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=260&lines=Code+%7C+Analyze+%7C+Build;Learning+Every+Day;Turning+Ideas+Into+Impact" />
+<td width="40%" align="center" valign="top">
+  <img width="320" src="https://raw.githubusercontent.com/MadhavJee/MadhavJee/main/my%20new%20pic-modified.png" alt="Madhav Jee"/>
+
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=16&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=300&lines=Code+%7C+Analyze+%7C+Build;Learning+Every+Day;Turning+Ideas+Into+Impact" alt="about typing" />
 </td>
 </tr>
 </table>
 
+---
 
 ## Tech Universe
 <p align="center">
@@ -62,6 +66,8 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" />
 </p>
+
+---
 
 ## Animated GitHub Insights
 <p align="center">
@@ -84,4 +90,4 @@
 ---
 
 <p align="center"><i>Code. Analyze. Improve. Repeat.</i></p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:1d4ed8,40:0369a1,75:0284c7,100:0ea5e9" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:1e40af,40:0369a1,75:0284c7,100:0ea5e9" alt="footer"/>
