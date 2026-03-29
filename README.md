@@ -25,19 +25,13 @@
 - CSE student at **Lovely Professional University** with **8.29 CGPA**.
 - I build **full-stack apps**, **analytics dashboards**, and **ML projects**.
 - I enjoy solving real problems with clean UI and reliable backend logic.
-- Open to **internships** and **collaborative software projects**.
-
-### Quick Snapshot
-- Location: India
-- Email: madhavjee09@gmail.com
-- Portfolio Focus: MERN | Data Analytics | Machine Learning
 - Currently Learning: Advanced DSA, SQL optimization, backend architecture
+- Open to **internships** and **collaborative software projects**.
 
 ### What I Bring
 - End-to-end project execution from idea to deployment.
 - Strong data handling and visualization mindset.
 - Consistent learner with practical, impact-driven approach.
-
 
 <br clear="right"/>
 
