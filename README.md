@@ -48,7 +48,10 @@
 </td>
 <td width="38%" align="center" valign="top">
 
-<img width="260" src="https://raw.githubusercontent.com/MadhavJee/MadhavJee/main/my%20new%20pic-modified.png" alt="Madhav Jee"/>
+<td width="40%" align="center" valign="top">
+  <img width="320" src="https://raw.githubusercontent.com/MadhavJee/MadhavJee/main/my%20new%20pic-modified.png" alt="Madhav Jee"/>
+</td>
+
 
 <br/><br/>
 
