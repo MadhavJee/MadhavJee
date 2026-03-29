@@ -45,7 +45,7 @@
 </td>
 
 <td width="38%" align="center" valign="top">
-<img width="360" src="https://raw.githubusercontent.com/MadhavJee/MadhavJee/main/my%20new%20pic-modified.png" alt="Madhav Jee"/>
+<img width="310" src="https://raw.githubusercontent.com/MadhavJee/MadhavJee/main/my%20new%20pic-modified.png" alt="Madhav Jee"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=16&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=260&lines=Code+%7C+Analyze+%7C+Build;Learning+Every+Day;Turning+Ideas+Into+Impact" />
 </td>
 </tr>
