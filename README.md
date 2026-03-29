@@ -20,18 +20,52 @@
 ---
 
 ## About Me
-<img align="right" width="280" src="https://github.com/MadhavJee/MadhavJee/blob/main/my%20new%20pic-modified.png" alt="Madhav Jee" />
 
-- CSE student at **Lovely Professional University** with **8.29 CGPA**.
-- I build **full-stack apps**, **analytics dashboards**, and **ML projects**.
-- I enjoy solving real problems with clean UI and reliable backend logic.
-- Currently Learning: Advanced DSA, SQL optimization, backend architecture
-- Open to **internships** and **collaborative software projects**.
+<table>
+<tr>
+<td width="62%" valign="top">
 
-### What I Bring
-- End-to-end project execution from idea to deployment.
-- Strong data handling and visualization mindset.
-- Consistent learner with practical, impact-driven approach.
+### Hey, I'm Madhav
+- CSE student at **Lovely Professional University** with **8.29 CGPA**
+- Building **MERN apps**, **analytics dashboards**, and **ML projects**
+- Focused on **clean UI + strong backend + real outcomes**
+- Open to **internships** and meaningful collaborations
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Code-MERN-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data-Analytics-0284c7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML-Applied-1d4ed8?style=for-the-badge" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Currently%20Learning-Advanced%20DSA-0f172a?style=flat-square&logo=leetcode&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Currently%20Learning-SQL%20Optimization-0f172a?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Currently%20Learning-Backend%20Architecture-0f172a?style=flat-square&logo=node.js&logoColor=green" />
+</p>
+
+</td>
+<td width="38%" align="center" valign="top">
+
+<img width="260" src="https://raw.githubusercontent.com/MadhavJee/MadhavJee/main/my%20new%20pic-modified.png" alt="Madhav Jee"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=16&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=260&lines=Code+%7C+Analyze+%7C+Build;Learning+Every+Day;Turning+Ideas+Into+Impact" />
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>What I Bring</b></summary>
+<br/>
+- End-to-end project execution from idea to deployment  
+- Strong data handling and visualization mindset  
+- Practical, disciplined, impact-driven development style
+</details>
+
 
 <br clear="right"/>
 
