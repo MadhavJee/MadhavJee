@@ -22,11 +22,22 @@
 ## About Me
 <img align="right" width="280" src="https://github.com/MadhavJee/MadhavJee/blob/main/my%20new%20pic-modified.png" alt="Madhav Jee" />
 
-
 - CSE student at **Lovely Professional University** with **8.29 CGPA**.
-- I like shipping practical solutions: web apps, dashboards, and ML models.
-- Currently deepening backend, DSA, SQL, and production-ready engineering.
-- Open to internships and project collaborations where I can create real impact.
+- I build **full-stack apps**, **analytics dashboards**, and **ML projects**.
+- I enjoy solving real problems with clean UI and reliable backend logic.
+- Open to **internships** and **collaborative software projects**.
+
+### Quick Snapshot
+- Location: India
+- Email: madhavjee09@gmail.com
+- Portfolio Focus: MERN | Data Analytics | Machine Learning
+- Currently Learning: Advanced DSA, SQL optimization, backend architecture
+
+### What I Bring
+- End-to-end project execution from idea to deployment.
+- Strong data handling and visualization mindset.
+- Consistent learner with practical, impact-driven approach.
+
 
 <br clear="right"/>
 
@@ -40,31 +51,6 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" />
 </p>
-
-## Featured Work
-### Student Management System
-- Full-stack student record manager with clean CRUD and search workflows.
-- **Stack:** React, Node.js, Express, MongoDB
-- **Live Demo:** [student-management-system-frontend-beta.vercel.app](https://student-management-system-frontend-beta.vercel.app)
-
-### RestroPredict
-- Restaurant success prediction on Zomato data with strong model performance.
-- **Highlights:** 9,000+ records, 91% accuracy
-- **Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **Code:** [Resturent-Success-Pridiction](https://github.com/MadhavJee/Resturent-Success-Pridiction)
-
-### CrimeView Dashboard
-- Interactive analytics dashboard for crime patterns by region/time.
-- **Highlights:** 18,000+ records analyzed
-- **Stack:** Excel, Pivot Tables, Charts, Data Cleaning
-- **Code:** [LA-Crime-Insights-Dashboard](https://github.com/MadhavJee/LA-Crime-Insights-Dashboard)
-
-## Certificates
-- Fundamentals of Data Structures - LPU Summer Training
-- Master Generative AI and Generative AI Tools - Infosys
-- Cloud Computing - NPTEL
-- Responsive Web Design - freeCodeCamp
-- Adobe Certificate
 
 ## Animated GitHub Insights
 <p align="center">
