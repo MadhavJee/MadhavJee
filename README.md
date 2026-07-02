@@ -26,7 +26,7 @@
 <td width="58%" valign="top">
 
 ### Hey, I'm Madhav
-- CSE student at **Lovely Professional University** with **8.29 CGPA**
+- CSE student at **Lovely Professional University** with **8.38 CGPA**
 - Building **MERN apps**, **analytics dashboards**, and **ML projects**
 - Currently learning **Advanced DSA**, **Big Data**, and **backend architecture**
 - Open to **internships** and meaningful collaborations
